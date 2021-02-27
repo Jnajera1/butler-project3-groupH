@@ -1,0 +1,10 @@
+Look over our datasets and seeing which ones fit the best within our Topic and Questoin.
+  
+  (Also clean, and if using multiple different csv's have ones that aline with same structor)
+
+Using Ski-Learn along with another Machine Learning Library
+  
+  (PyTorch, TensorFlow, Keras, Theano)
+
+Choosing the best way to Delpoy/ Host our completed project!
+  (AWS, Back4App, Dokku, Netlify)

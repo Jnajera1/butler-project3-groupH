@@ -1,5 +1,5 @@
 # butler-project3-groupH
-Final Project: Understanding the Possible Effect of Non-Standard Market Pressures on Stocks
+Final Project: Understanding the Possible Relationship of Non-Standard Market Pressures on Stocks
 
 Topic: This project would look to examine if any interplay exists between the WallStreetBets subreddit and stock prices from 2012 to now. This would be accomplished by analyzing the text and titles of posts for the most common names of companies and stocks, the timeframe they were trending, and comparing that to stock price data for the same time periods. Using the Gamestop event as a baseline, this analysis could be expanded to judge if this particular non-standard market pressure has had any other appreciable effect on the market in the past.
 

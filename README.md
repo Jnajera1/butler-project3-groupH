@@ -6,8 +6,11 @@ Topic: This project would look to examine if any interplay exists between the Wa
 Dataset: WSB Posts From 2012 To Now
 
 https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts/code
+
 https://www.kaggle.com/accountstatus/wall-streets-bet-data-analysis
+
 https://www.kaggle.com/unanimad/reddit-rwallstreetbets
+
 https://www.kaggle.com/aaron7sun/stocknews
 
 

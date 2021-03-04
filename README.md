@@ -8,6 +8,7 @@ Dataset: WSB Posts From 2012 To Now
 https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts/code
 https://www.kaggle.com/accountstatus/wall-streets-bet-data-analysis
 https://www.kaggle.com/unanimad/reddit-rwallstreetbets
+https://www.kaggle.com/aaron7sun/stocknews
 
 
 Why: The WSB-Gamestop saga seems incredibly and I’m curious if this particular group has had any noticeable effect on the market in the past or if they achieved their most recent effects after reaching some sort of critical mass.
